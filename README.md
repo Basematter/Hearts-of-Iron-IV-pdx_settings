@@ -10,6 +10,7 @@ pdx_settings.txt内
 
 "System"=
 {
+
 	"language"=
         {
 		value="语言"
