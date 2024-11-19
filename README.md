@@ -9,17 +9,11 @@ Paradox Interactive启动器在部分设备上无法使用
 pdx_settings.txt内
 
 "System"=
-
 {
-
 	"language"=
- 
         {
-  
 		value="语言"
-  
 		version=0
-  
 	}
  
 }
