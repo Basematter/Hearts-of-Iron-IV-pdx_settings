@@ -1,0 +1,6 @@
+"System"={
+	"language"={
+		value="l_simp_chinese"
+		version=0
+	}
+}
